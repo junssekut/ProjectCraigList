@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-plus-jakarta-sans: "Plus Jakarta Sans";
+  
+    /* font sizes */
+    --font-size-mini: 15px;
+    --font-size-base: 16px;
+    --font-size-xs: 12px;
+    --font-size-13xl: 32px;
+    --font-size-lgi: 19px;
+    --font-size-7xl: 26px;
+    --font-size-3xl: 22px;
+    --font-size-xl: 20px;
+    --font-size-mid: 17px;
+    --font-size-6xl: 25px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-goldenrod: #d1a300;
+    --color-black: #000;
+    --color-gray-100: #fafafa;
+    --color-gray-200: rgba(0, 0, 0, 0.86);
+    --color-gray-300: rgba(255, 255, 255, 0.63);
+    --color-gainsboro-100: #d9d9d9;
+    --color-gainsboro-200: rgba(217, 217, 217, 0);
+    --color-khaki: #fddf76;
+    --color-darkgray: #b0afaf;
+    --color-khaki2: #fbe3a6;
+
+  
+    /* Paddings */
+    --padding-12xl: 31px;
+    --padding-17xl: 36px;
+    --padding-19xl: 38px;
+    --padding-xl: 20px;
+    --padding-mid: 17px;
+    --padding-12xs: 1px;
+    --padding-7xs: 6px;
+    --padding-lgi: 19px;
+    --padding-10xs-9: 2.9px;
+    --padding-10xs-5: 2.5px;
+  
+    /* Border radiuses */
+    --br-6xl: 25px;
+    --br-21xl: 40px;
+    --br-8xs: 5px;
+    --br-xl: 20px;
+    --br-3xs: 10px;
+  }
+  
